@@ -16,6 +16,6 @@
     string in this file.
     -->
     <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
-        AIzaSyAgh16PkNpY2_sDs3td6EZ4qrv30N_jhYk <!--lexi api key so comment this out when you aren't using it-->
+       AIzaSyCF2dgAmse5rDvKTe9ST9uPhXECxJxpHmA <!--lexi api key so comment this out when you aren't using it-->
     </string>
 </resources>

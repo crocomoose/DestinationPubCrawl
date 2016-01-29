@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fragment map:uiCompass="true" map:cameraZoom="15"
+    map:cameraTargetLng="-122.084095"
+    map:cameraTargetLat="37.422006"
+    class="com.google.android.gms.maps.MapFragment"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent" android:id="@+id/mapfrag"
+    xmlns:map="http://scheams.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"/>
